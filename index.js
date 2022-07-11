@@ -1,5 +1,5 @@
 //════════════════════════════//
-//Recode By ArullOfc 
+//Recode By M.Alhakim
 //Berasal dari sc Xeon Bot Inc. Cheems Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
