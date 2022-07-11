@@ -1,10 +1,10 @@
-<h1 align="center">ArullBotzMD<br></h1>
+<h1 align="center">ThunderBotzMD<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/ae0bd3fb0166c41faa725.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
-ArullBotzMD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Warikrr" target="_blank">ArullOfc</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Jangan lupa kasih bintang ya.
+ThunderBotzMD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Warikrr" target="_blank">Thunder</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Jangan lupa kasih bintang ya.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ ArullBotzMD Multi Device is a automated whatsapp bot created by <a href="https:/
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6285692198423"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"><img src="https://img.shields.io/badge/Subscribe ARULL OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
